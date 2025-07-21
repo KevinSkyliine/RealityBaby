@@ -30,6 +30,7 @@
 ('Thrax', 'thrax', 350000, 'super', 0),
 ('Tigon', 'tigon', 250000, 'super', 0),
 ('Turismo R', 'turismor', 245000, 'super', 0),
+('Turismo Omaggio', 'turismo3', 220000, 'super', 0),
 ('Tyrant', 'tyrant', 250000, 'super', 0),
 ('Tyrus', 'tyrus', 600000, 'super', 0),
 ('Vacca', 'vacca', 120000, 'super', 0),

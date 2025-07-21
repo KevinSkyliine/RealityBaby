@@ -5,7 +5,7 @@
 ('Felon', 'felon', 42000, 'coupes', 0),
 ('Jackal', 'jackal', 38000, 'coupes', 0),
 ('Oracle XS', 'oracle2', 35000, 'coupes', 0),
-('previon', 'previon', 15000, 'coupes', 0),
+('Previon', 'previon', 15000, 'coupes', 0),
 ('Sentinel XS', 'sentinel2', 40000, 'coupes', 0),
 ('Sentinel', 'sentinel', 32000, 'coupes', 0),
 ('Windsor Drop', 'windsor2', 125000, 'coupes', 0),
